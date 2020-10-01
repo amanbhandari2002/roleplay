@@ -1,7 +1,7 @@
 ========================================
 ``roleplay:`` Python does Roles
 ========================================
-:Version: 0.8 
+:Version:0.8 
 
 Roleplay is an in-progress implementation of roles for Python. The current
 state is that it passes the Perl6-Roles_ test suite, which is not the final
